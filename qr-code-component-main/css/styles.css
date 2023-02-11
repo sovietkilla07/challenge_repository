@@ -1,20 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 
-.rectangle{
+body {
 
-    padding: 20px;
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+    
 }
 
-.title{
+main {
 
-    font-family: Outfit;
-    color: hsl(218, 44%, 22%);
-    text-align: center;
+    
+    background-color: white;
 }
 
-.text{
+p{
 
-    font-family: Outfit;
     font-size: 15px;
-    color: hsl(220, 15%, 55%)
 }
