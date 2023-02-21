@@ -11,9 +11,23 @@ main {
 
     
     background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
 }
 
 p{
 
     font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
+
+img {
+
+    border-radius: 10px;
 }
