@@ -31,3 +31,13 @@ img {
 
     border-radius: 10px;
 }
+
+.container {
+
+    width: ;
+    height: ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
