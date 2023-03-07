@@ -9,6 +9,8 @@ body {
 
 .card {
 
+    width: 400px;
+
 }
 
 main {
@@ -38,8 +40,7 @@ img {
 
 .container {
 
-    width: ;
-    height: ;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
